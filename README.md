@@ -6,6 +6,9 @@ Tested and confirmed working in QEMU: it boots, prints a banner, and gives you a
 
 ---
 
+<img width="772" height="515" alt="Screenshot From 2026-09-03 12-44-23" src="https://github.com/user-attachments/assets/12d47d6a-4aad-411c-8604-9add6252baee" />
+
+
 ## Table of contents
 
 1. [What actually IS an operating system](#1-what-actually-is-an-operating-system)
